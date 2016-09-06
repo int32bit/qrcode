@@ -1,0 +1,2 @@
+qrcode>=5.3
+pillow>=3.3.1
