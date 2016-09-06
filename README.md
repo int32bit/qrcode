@@ -15,7 +15,7 @@ docker run -t -i --rm -v `pwd`:/root krystism/qrcode encode --data "Hello World!
 
 Output:
 
-![hello world](./helloworld.png)
+![hello world](https://github.com/int32bit/qrcode/blob/master/helloworld.png)
 
 Parse a QR code:
 
